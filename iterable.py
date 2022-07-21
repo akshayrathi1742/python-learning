@@ -1,5 +1,5 @@
 user = {
-    "Name":"akshy",
+    "Name":"akshay",
     "city":"gurugram",
     "age" : 56
 }
