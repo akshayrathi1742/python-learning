@@ -1,0 +1,2 @@
+class Toy():
+    def
