@@ -8,7 +8,7 @@
 #print("Thankyou everyone.that was a great show")  
 
 pizza = [
-  'cheese',
+  'chees',
   'loadedvegies',
  'masrum'
 ]
