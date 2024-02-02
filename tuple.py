@@ -1,11 +1,11 @@
-#dimensions = (200,46)# tuple are immutable
-#for d in dimensions :
-  #print(d)
+tuple =(1,2,3,4,5,5)
+# 
+print(tuple.count(5))
 
-seema_hotel = ('roti','sabji','rayata','mutter','chole')
-for menu in seema_hotel :
-  print(menu)
+my_tuple = tuple[1:4] # for indexing
+print(my_tuple)
 
-seema_hotel =("\n" + 'roti','sabji','rayata','tandoor','palak')
-for menu in seema_hotel :
-  print( menu)
+a,b,c,*other = (1,2,3,4,5)# it change a tuple in list
+print(a,b,c)
+
+
